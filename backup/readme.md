@@ -1,3 +1,2 @@
 ## Backup
-一键备份
-下载地址
+https://github.com/sgsq/manage/raw/master/backup/index.exe
